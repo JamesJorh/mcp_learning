@@ -1,6 +1,6 @@
 # MCP Learning
 
-这是一个用于学习和实践Git以及GitHub操作的仓库。
+这是一个用于学习和实践Git以及GitHub操作的仓库main。
 
 ## 简介
 
