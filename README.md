@@ -1,6 +1,6 @@
 # MCP Learning
 
-这是一个用于学习和实践Git以及GitHub操作的仓库master。
+这是一个用于学习和实践Git以及GitHub操作的仓库。
 
 ## 简介
 
@@ -13,5 +13,5 @@
 
 克隆此仓库：
 ```
-git clone <repository-url>
+git clone https://github.com/JamesJorh/mcp_learning.git
 ```
